@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="Lektion3Bilijettpriskalkylatorn/Lektion3Bilijettpriskalkylatorn.csproj" />
+  <Project Path="Lektion3Biljettkontrollen 0.2/Lektion3Biljettkontrollen 0.2.csproj" Id="f5170bac-e8ef-4f35-afc3-0e6851e0016e" />
+  <Project Path="Lektion3Datatyp-safe-casting/Lektion3Datatyp-safe-casting.csproj" Id="b644a2a6-238c-44a3-b5f9-3e67f68861cc" />
+  <Project Path="Lektion3Godisdelaren/Lektion3Godisdelaren.csproj" Id="35a047b7-f824-4a35-b22b-697d2ba9180e" />
+  <Project Path="Lektion3Implicit vs Explicit typkonvertering/Lektion3Implicit vs Explicit typkonvertering.csproj" Id="99de792f-cbfa-4d12-accc-9a098eedfd95" />
+  <Project Path="Lektion3Inkrementering (++x vs x++)/Lektion3Inkrementering (++x vs x++).csproj" Id="0e3b5e09-6610-478f-bfbd-7741c4fc266c" />
+  <Project Path="Lektion3Inloggningsvalidering(Logiska Opperatorer)/Lektion3Inloggningsvalidering(Logiska Opperatorer).csproj" Id="4716038f-2bd5-46ec-9df2-c32da5a221bb" />
+  <Project Path="Lektion3Medlemsrabatt/Lektion3Medlemsrabatt.csproj" Id="412b1a33-12d9-4df9-b51e-964b1c398216" />
+  <Project Path="Lektion3Skatteuträknare med overflow/Lektion3Skatteuträknare med overflow.csproj" Id="294052e2-b879-4747-88fd-ca5463fbdb6f" />
+  <Project Path="Lektion3Stränglängdskontroll/Lektion3Stränglängdskontroll.csproj" Id="e47d997f-5184-4d2e-8c95-d1587fabb4b7" />
+  <Project Path="Lektion3Säker division/Lektion3Säker division.csproj" Id="528269ff-0d82-4b8f-9961-b54793708a46" />
+  <Project Path="Lektion3Ålderskontrollen/Lektion3Ålderskontrollen.csproj" Id="fbf37f47-c3e9-4087-91d7-91a55282d5ee" />
+  <Project Path="Lektion3ålderskontrollenvariation/Lektion3ålderskontrollenvariation.csproj" Id="4e4bd53d-6518-47aa-aa11-76c69863479d" />
+</Solution>
